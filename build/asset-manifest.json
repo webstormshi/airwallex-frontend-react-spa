@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.78d55d81.chunk.css",
-    "main.js": "/static/js/main.552c3544.chunk.js",
-    "main.js.map": "/static/js/main.552c3544.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.6d3fcc72.js",
-    "runtime-main.js.map": "/static/js/runtime-main.6d3fcc72.js.map",
-    "static/css/2.c5b6f512.chunk.css": "/static/css/2.c5b6f512.chunk.css",
-    "static/js/2.3800ce8a.chunk.js": "/static/js/2.3800ce8a.chunk.js",
-    "static/js/2.3800ce8a.chunk.js.map": "/static/js/2.3800ce8a.chunk.js.map",
-    "static/js/3.d6253219.chunk.js": "/static/js/3.d6253219.chunk.js",
-    "static/js/3.d6253219.chunk.js.map": "/static/js/3.d6253219.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/2.c5b6f512.chunk.css.map": "/static/css/2.c5b6f512.chunk.css.map",
-    "static/css/main.78d55d81.chunk.css.map": "/static/css/main.78d55d81.chunk.css.map",
-    "static/js/2.3800ce8a.chunk.js.LICENSE.txt": "/static/js/2.3800ce8a.chunk.js.LICENSE.txt"
+    "main.css": "/airwallex-frontend-react-spa/static/css/main.78d55d81.chunk.css",
+    "main.js": "/airwallex-frontend-react-spa/static/js/main.552c3544.chunk.js",
+    "main.js.map": "/airwallex-frontend-react-spa/static/js/main.552c3544.chunk.js.map",
+    "runtime-main.js": "/airwallex-frontend-react-spa/static/js/runtime-main.e4bc7a63.js",
+    "runtime-main.js.map": "/airwallex-frontend-react-spa/static/js/runtime-main.e4bc7a63.js.map",
+    "static/css/2.c5b6f512.chunk.css": "/airwallex-frontend-react-spa/static/css/2.c5b6f512.chunk.css",
+    "static/js/2.b514c131.chunk.js": "/airwallex-frontend-react-spa/static/js/2.b514c131.chunk.js",
+    "static/js/2.b514c131.chunk.js.map": "/airwallex-frontend-react-spa/static/js/2.b514c131.chunk.js.map",
+    "static/js/3.d6253219.chunk.js": "/airwallex-frontend-react-spa/static/js/3.d6253219.chunk.js",
+    "static/js/3.d6253219.chunk.js.map": "/airwallex-frontend-react-spa/static/js/3.d6253219.chunk.js.map",
+    "index.html": "/airwallex-frontend-react-spa/index.html",
+    "static/css/2.c5b6f512.chunk.css.map": "/airwallex-frontend-react-spa/static/css/2.c5b6f512.chunk.css.map",
+    "static/css/main.78d55d81.chunk.css.map": "/airwallex-frontend-react-spa/static/css/main.78d55d81.chunk.css.map",
+    "static/js/2.b514c131.chunk.js.LICENSE.txt": "/airwallex-frontend-react-spa/static/js/2.b514c131.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.6d3fcc72.js",
+    "static/js/runtime-main.e4bc7a63.js",
     "static/css/2.c5b6f512.chunk.css",
-    "static/js/2.3800ce8a.chunk.js",
+    "static/js/2.b514c131.chunk.js",
     "static/css/main.78d55d81.chunk.css",
     "static/js/main.552c3544.chunk.js"
   ]
