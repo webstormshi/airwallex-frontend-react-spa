@@ -1,0 +1,32 @@
+.content-container {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.content-modal__title {
+    position: relative;
+    text-align: center;
+    margin-bottom: 20px;
+    font-size: 24px;
+}
+.content-modal__title::after {
+    background: #ccc;
+    width: 50px;
+    height: 2px;
+    position: absolute;
+    content: "";
+    bottom: 0;
+    left: 50%;
+    transform: translateX(-50%);
+}
+.content-modal__desc {
+    text-align: center;
+    margin-bottom: 50px;
+}
+.content-container__error {
+    color: red;
+    text-align: center;
+}
