@@ -17,8 +17,19 @@ please run above command to download project source code and run project, and th
 
 This is some result statistics about project building information.
 
-#### testing report
+#### testing report PASS  src/App.test.js
+```
+ PASS  src/App.test.js
+ PASS  src/Components/Header/index.test.js
+ PASS  src/Components/Content/index.test.js
+ PASS  src/Components/Footer/index.test.js
 
+Test Suites: 4 passed, 4 total
+Tests:       4 passed, 4 total
+Snapshots:   0 total
+Time:        6.09 s
+```
+Ran all test suites related to changed files.
 This is some result statistics about project running test cases.
 
 #### The functionality
